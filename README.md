@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Manish%20Pradhan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%A7%A0%20CMOS%20Layout%20Enthusiast%20%7C%20%F0%9F%93%90%20Standard%20Cell%20Designer%20%7C%20%F0%9F%94%AC%20ASIC%20Flow%20Learner&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=manish09712-ship-it">
-    <img src="https://komarev.com/ghpvc/?username=manish09712-ship-it&label=Profile%20views&color=00FFFF&style=flat-square" alt="manish09712-ship-it's profile views" />
-  </a>
-</p>
 
 ## 📌 About Me
 - 🎓 Electronics & Communication Engineering Student
@@ -12,7 +7,7 @@
 - 🛠 Practicing full-custom layouts using open-source and academic tools
 - ⚡ Exploring RTL-to-Layout methodology in Linux environment
 - 🎯 Aspiring Physical Design / Layout Engineering Intern
----
+
 
 
 ## 🧠 My Focus Areas
@@ -57,7 +52,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="www.linkedin.com/in/manish-pradhan-15b5b2380" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/manish09712" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918910274494" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:manish09712@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/manish-pradhan-15b5b2380/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/manish09712" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918910274494" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:manish09712@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
@@ -72,4 +67,3 @@ To build strong expertise in CMOS layout and physical implementation while conti
 <p align="center">
 ⭐ <i>“Designing silicon at the transistor level.”</i>
 </p>
-# manish09712-ship-it
