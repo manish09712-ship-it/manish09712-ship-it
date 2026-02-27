@@ -71,5 +71,5 @@ To build strong expertise in CMOS layout and physical implementation while conti
 
 <p align="center">
 ⭐ <i>“Designing silicon at the transistor level.”</i>
-</p># manish09712-ship-it
+</p>
 # manish09712-ship-it
